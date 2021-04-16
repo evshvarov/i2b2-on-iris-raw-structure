@@ -8,6 +8,7 @@
       <SourcesRoot>src/iris</SourcesRoot>
       <Resource Name="I2B2.PKG"/>
       <Resource Name="public.PKG"/>
+      <Resource Name="*.LUT"/>
     </Module>
   </Document>
 </Export>
