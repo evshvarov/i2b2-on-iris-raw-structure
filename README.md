@@ -19,8 +19,10 @@ This POC is focused on assessment and gap analysis for adding InterSystems IRIS 
     * Implement an infrastructure for exporting i2b2 patient data as FHIR resources, map and export sample resources (e.g. Patient, Meds) based on the data in the i2b2 instance.
     * Document findings and publish to InterSystems open exchange.
 
-### How it was done
 
+### INstallation with ZPM
+zpm "install i2b2"
+### How it was done
 Steps creating the project
 
     1. Set up Linux VM.
